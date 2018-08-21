@@ -11,7 +11,7 @@ namespace ConsoleApp2
         public void DoSomething()
         {
             Console.WriteLine("Doing Something");
-            Console.WriteLine("Doing Another thng");
+            Console.WriteLine("Doing Anoer thng");
         }
     }
 }
