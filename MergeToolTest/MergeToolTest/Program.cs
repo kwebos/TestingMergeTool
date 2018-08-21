@@ -11,6 +11,7 @@ namespace MergeToolTest
         static void Main(string[] args)
         {
             Console.WriteLine("No commit");
+            Console.ReadLine();
             Console.WriteLine("Fourth Commit");
         }
     }
